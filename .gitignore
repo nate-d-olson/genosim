@@ -1,0 +1,14 @@
+/.pytest_cache
+/.vscode
+/docs
+/manuscript.md
+/setup.py
+/test-ill_1.fastq
+/test-ill_2.fastq
+/test.bam
+/test.fasta
+/test.fasta.fai
+/test.fastq
+/test.vcf
+/test_sorted.bam
+/test_sorted.bam.bai
