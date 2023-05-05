@@ -1,3 +1,5 @@
+This is a work in progress - mostly for personal use playing with using chatGPT for python package development. Feel free to explore and try out the code but don't expect it to work out of the box. If you are interested in toy datasets for use in bioinformatic pipeline development and would like to contribute to this project feel free to contact me at nolson@nist.gov.
+
 # Bioinformatics Test Data Generator
 
 The **Bioinformatics Test Data Generator** is a Python package that provides utilities for generating test datasets for use in developing 
